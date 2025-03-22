@@ -37,7 +37,7 @@ The Medication Management App streamlines patient medication adherence, enhances
 - Feedback collection on packaging comfort and mobility support.
 
 ## Methodology
-The app was developed using stakeholder interviews, low and moderate-fidelity prototyping, iterative usability testing, and accessibility audits to ensure compliance with healthcare standards and to meet diverse patient needs effectively.
+The app was developed through competitor analysis, an observational study at the hospital, low and moderate-fidelity prototyping, iterative usability testing, and accessibility audits to ensure compliance with healthcare standards and to meet diverse patient needs effectively.
 
 ## FDA Compliance
 The application primarily serves informational and logistical purposes and currently falls under FDA's enforcement discretion, not requiring Human Factors submission unless future features involve clinical decisions or device integrations.
